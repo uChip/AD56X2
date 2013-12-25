@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map for AD56X2
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AD56X2	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+testConnection	KEYWORD2
+setOutputLevel	KEYWORD2
+getOutputLevel	KEYWORD2
+powerDown	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+AD56X2_ADDR_GND		LITERAL1
+AD56X2_ADDR_FLT		LITERAL1
+AD56X2_ADDR_VCC		LITERAL1
+AD56X2_PD_1K		LITERAL1
+AD56X2_PD_100K		LITERAL1
+AD56X2_PD_TS		LITERAL1
