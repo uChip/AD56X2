@@ -15,7 +15,7 @@
 
     (c) Copyright 2013 by Chip Schnarel <schnarel@hotmail.com>
     Updates should (hopefully) always be available at
-        https://github.com/schnarel/AD56X2
+        https://github.com/uchip/AD56X2
 
 	@section  HISTORY
 
