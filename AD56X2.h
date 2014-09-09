@@ -67,7 +67,7 @@ class AD56X2 {
         bool getOutputLevel(uint16_t *data);
 
         // Go to the low power state
-        // Note: sending a new DAC value via setDAC() brings the
+        // Note: sending a new DAC value via setOutputLevel() brings the
         // DAC out of low power state
         bool powerDown(uint8_t mode);
 
